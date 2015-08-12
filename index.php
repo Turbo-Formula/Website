@@ -27,9 +27,9 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="http://wiki.turboformula.co.uk" target="_blank">Wiki</a></li>
+            <!-- <li><a href="http://wiki.turboformula.co.uk" target="_blank">Wiki</a></li>
             <li><a href="http://www.turboformula.co.uk/blog" target="_blank">Blog</a></li>
-            <li><a href="#contact">Contact Us</a></li>
+            <li><a href="#contact">Contact Us</a></li> -->
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Demos <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
