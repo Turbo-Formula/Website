@@ -22,11 +22,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Turbo Formula</a>
+          <a class="navbar-brand" href="http://www.turboformula.co.uk">Turbo Formula</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
+            <li><a href="http://www.turboformula.co.uk/clan" target="_blanK">Gaming Clan</a></li>
             <!-- <li><a href="http://wiki.turboformula.co.uk" target="_blank">Wiki</a></li>
             <li><a href="http://www.turboformula.co.uk/blog" target="_blank">Blog</a></li>
             <li><a href="#contact">Contact Us</a></li> -->
