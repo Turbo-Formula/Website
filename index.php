@@ -34,8 +34,8 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Demos <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
+              	<li><a href="/demos/Roll-A-Ball/" target="_blank">Roll-A-Ball</a></li>
                 <li class="dropdown-header">Projects in Progress</li>
-                <li><a href="/demos/" target="_blank">Roll-A-Ball</a></li>
                 <li class="divider"></li>
               </ul>
             </li>
